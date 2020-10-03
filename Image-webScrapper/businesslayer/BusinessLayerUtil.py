@@ -2,7 +2,7 @@
 """
 Created on Tue Jan  7 15:24:49 2020
 
-@author: krish.naik
+@author: Mehrdad
 """
 
 from scrapperImage.ScrapperImage import ScrapperImage
