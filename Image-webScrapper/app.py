@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Krish Naik
+@author: Mehrdad Dadgar
 """
 # Importing the necessary Libraries
 from flask_cors import CORS,cross_origin
