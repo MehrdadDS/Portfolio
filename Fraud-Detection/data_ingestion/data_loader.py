@@ -4,7 +4,7 @@ class Data_Getter:
     """
     This class shall  be used for obtaining the data from the source for training.
 
-    Written By: TOSAN Team
+    Written By: iNeuron Intelligence
     Version: 1.0
     Revisions: None
 
